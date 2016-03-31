@@ -1,0 +1,26 @@
+body {
+	background-color: #34495e;
+	color: white;
+	font-family: "Arial";
+}
+
+ul {
+	display: inline-block;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+}
+
+li a  {
+	color: rgba(26,188,156,1);
+	display: block;
+	margin-bottom: ;
+	padding: 14px;
+	text-align: center;
+	text-decoration: none;
+}
+
